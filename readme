@@ -1,0 +1,13 @@
+The Boxee-Voddler-Html5-Addon is a sub project of the Boxee-Voddler-Addon
+aimed at exploring the possibilities of an html5 app to bring voddler to the Boxee platform.
+
+inspired by apps like youtube-leanback
+http://www.youtube.com/leanback
+
+at the moment i've setup a boxee repo at:
+http://d34dmeat.github.com/boxee
+
+check it out and test the app.
+
+It won't work though (at the moment i'm testing keybord mode)
+
