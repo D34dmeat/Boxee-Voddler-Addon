@@ -1,6 +1,6 @@
 <apps>
    <app>
-      <id>com.github.d34dmeat.Boxee-Voddler-Html5-Addon</id>
+      <id>com.github.d34dmeat.voddler</id>
       <name>Voddler-Html5-Plugin</name>
       <version>0.1</version>
       <description>Test app to explore the possibility of an Voddler html5 app</description>
@@ -18,3 +18,4 @@
       <minversion>0.9.14</minversion>
    </app>
 </apps>
+
