@@ -1,17 +1,17 @@
 <app>
   <id>com.github.d34dmeat.voddler</id>
   <name>Voddler-html5-Addon</name>
-  <version>0.1</version>
-  <description>Voddler HTML5 Addon for Boxee v0.1</description>
+  <version>0.2</version>
+  <description>Voddler HTML5 Addon for Boxee v0.2</description>
   <thumb>http://d34dmeat.github.com/Boxee-Voddler-Addon/voddler_thumb.png</thumb>
   <repositoryId>com.github.d34dmeat</repositoryId>
-  <repository>http://d34dmeat.github.com/Boxee-Voddler-Addon</repository>
+  <repository>http://d34dmeat.github.com/boxee</repository>
   <media>video</media>
   <copyright>LGPL</copyright>
   <email>d34dmeat@gmail.com</email>
   <type>html</type>
-  <url>http://www.voddler.com/en/</url>
-  <controller>http://d34dmeat.github.com/Boxee-Voddler-Addon/controller.js</controller>
+  <url>http://d34dmeat.horizon-host.com/voddler.html</url>
+  <controller>http://d34dmeat.horizon-host.com/controller.js</controller>
   <platform>all</platform>
   <minversion>1.0</minversion>
   <test-app>true</test-app>
